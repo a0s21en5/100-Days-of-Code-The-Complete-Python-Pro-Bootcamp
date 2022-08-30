@@ -6,4 +6,6 @@ print("print('what to print')")
 
 print("100 Days of Python \n100 Days of Python")
 
-print("Day" + "1")
+print("Day" + "1" )
+
+print("Day" + " " +"1" )
