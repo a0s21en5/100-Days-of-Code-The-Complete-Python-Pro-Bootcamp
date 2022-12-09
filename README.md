@@ -5,3 +5,6 @@ Printing, Commenting, Debugging, String Manipulation and Variables
 
 # Day 2
 Data Types, Numbers, Operations, Type Conversion, f-string
+
+# Day 3
+Conditional Statements, Logical Operators, Code Blocks and Scope
