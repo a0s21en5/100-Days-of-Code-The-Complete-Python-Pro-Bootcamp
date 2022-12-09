@@ -8,3 +8,7 @@ Data Types, Numbers, Operations, Type Conversion, f-string
 
 # Day 3
 Conditional Statements, Logical Operators, Code Blocks and Scope
+
+# Day 4
+Randomisation and Python List
+
