@@ -12,3 +12,5 @@ Conditional Statements, Logical Operators, Code Blocks and Scope
 # Day 4
 Randomisation and Python List
 
+# Day 5
+For Loops, Range and Code Blocks
