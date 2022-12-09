@@ -1,4 +1,4 @@
-# 100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-for-2022
+# 100 Days of Code The Complete Python Pro Bootcamp for
 
 # Day 1
 Printing, Commenting, Debugging, String Manipulation and Variables
@@ -14,3 +14,4 @@ Randomisation and Python List
 
 # Day 5
 For Loops, Range and Code Blocks
+
