@@ -9,4 +9,7 @@ print(3.15)
 
 # Boolean
 a = 5/2
+#True
+#False
 print(bool(a))
+
